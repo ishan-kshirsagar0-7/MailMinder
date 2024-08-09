@@ -1,10 +1,10 @@
-# Storyvord Internship Assignment
+# MailMinder AI
 
 ## Project Title
-Automatic Email Reply System for Film Equipment Rental Service
+Automatic Email Reply System
 
 ## Objective
-Design and implement a Langchain based system that classifies incoming emails into three categories and executes specific actions based on the category. The system should enhance customer interaction by providing automated responses tailored to inquiries, reviews, and assistance requests.
+Design and implement a Langchain based system that classifies incoming emails into multiple categories (three, in this use case) and executes specific actions based on the category. The system should enhance customer interaction by providing automated responses tailored to inquiries, reviews, and assistance requests.
 
 ## Deliverables
 
